@@ -156,3 +156,5 @@ We would like to thank Azubi Africa for the opportunity to learn how to build an
 | Project |	Name |	Published Article |	Deployed|
 | ---- | -----| ----- | ----- |
 | LP6	| Sepsis API |	[Sepsis API LP6](https://medium.com/@eadoe97/empowering-healthcare-building-a-sepsis-prediction-api-with-fastapi-and-docker-6fcae672d20d) | [Sepsis_API](http://localhost:8000/docs#/default/predict_predict_post)
+
+Find contanerized API on [Dockerhub](https://hub.docker.com/repository/docker/abladoe/sepsis_api/general)
